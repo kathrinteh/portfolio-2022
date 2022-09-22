@@ -477,7 +477,7 @@ p {
 
 
   .logo {
-    width: 5rem;
+    width: 10rem;
   }
 
   .hero {
@@ -585,3 +585,4 @@ p {
       background: var(--color-lightest);
     }
   }
+}
