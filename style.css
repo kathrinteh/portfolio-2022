@@ -254,6 +254,10 @@ p {
   width: 3rem;
 }
 
+.hero-header {
+  background-color: rgb(255, 226, 226);
+}
+
 .hero-headline-wrapper {
   display: flex;
   flex-direction: column;
