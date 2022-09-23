@@ -148,6 +148,18 @@ a:active {
   /* Tap on mobile */
 }
 
+.social-link {
+  color:#222;
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+.social-link:hover {
+  color: #dd3e3e;
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
 .navigation-arrow {
   color: var(--alt-background-color);
 }
