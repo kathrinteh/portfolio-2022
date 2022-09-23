@@ -489,11 +489,7 @@ p {
   .hero-headline-wrapper {
     padding: 4rem 8rem;
   }
-  /* Padding around work grid and project page */
-  .portfolio,
-  .project-wrapper {
-    padding: 3rem;
-  }
+ 
   .grid {
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-gap: 1rem;
@@ -545,7 +541,7 @@ p {
   /* Padding around work grid and project page */
   .portfolio,
   .project-wrapper {
-    padding: .5rem
+    padding: 3rem
   }
 
   /* Project Page Flex Direction on Large Devices */
